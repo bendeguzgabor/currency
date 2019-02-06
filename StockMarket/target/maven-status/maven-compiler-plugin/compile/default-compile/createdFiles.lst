@@ -1,0 +1,11 @@
+com\demo\exchange\api\MarketController.class
+com\demo\exchange\simulator\StockMarketSimulator.class
+com\demo\exchange\data\mapper\CurrencyMapper.class
+com\demo\exchange\api\services\CurrencyService.class
+com\demo\exchange\data\model\Currency.class
+com\demo\exchange\data\model\CurrencyChange.class
+com\demo\exchange\ServletInitializer.class
+com\demo\exchange\ExchangeApplication.class
+com\demo\exchange\util\Rounder.class
+com\demo\exchange\api\HomeController.class
+com\demo\exchange\simulator\StockMarketSimulatorService.class
